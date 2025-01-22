@@ -12,7 +12,7 @@ Title: En voyage
 
 Author: Marie de Grandmaison
 
-Release Date: June 22, 2022 [eBook #68356]
+Release Date: June 20, 2022 [eBook #68356]
 
 Language: French
 
@@ -221,7 +221,7 @@ j'ai fait un si long voyage.
 beaucoup de choses en voyageant. Aussi l'année prochaine
 demanderons-nous à avoir le même bonheur.
 
---Jusque là, nous nous contenterons de _grrrandes_ excursions en...
+--Jusque là, nous nous contenterons de _grrramdes_ excursions en...
 tramway!
 
 --Il nous suffira de nous faire illusion, répartit Hélène en riant.
